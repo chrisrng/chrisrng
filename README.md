@@ -2,7 +2,7 @@
 
 - Staff Software Engineer at <a href="https://www.linkedin.com" rel="nofollow" target="blank">LinkedIn</a>.
 - Tech Editor at the <a href="https://engineering.linkedin.com/blog" rel="nofollow" target="blank">LinkedIn Engineering Blog</a>.
-- Editor at <a href="https://blog.emberjs.com/tags/newsletter.html" rel="nofollow" target="blank">The Ember Times</a>.
+- <a href="https://blog.emberjs.com/author/chris-ng/" rel="nofollow" target="blank">Editor</a> at <a href="https://blog.emberjs.com/tag/newsletter/" rel="nofollow" target="blank">The Ember Times</a>.
 - Speaker (<a href="https://www.youtube.com/watch?v=lpljvcBUye0" rel="nofollow" target="blank">EmberFest</a>, <a href="https://www.youtube.com/watch?v=t7O9N87tOqs" rel="nofollow" target="blank">EmberConf</a>, <a href="https://www.youtube.com/watch?v=R4cb7TGV3C8" rel="nofollow" target="blank">LibertyJS</a>, etc.)
 
 <p align="center">
